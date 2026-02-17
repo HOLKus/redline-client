@@ -1,0 +1,16 @@
+{
+  "latest_version": "1.7.4+12",
+  "release_tag": "v1.7.4+12",
+  "release_date": "2026-02-17",
+  "min_supported_version": "1.7.3+11",
+  "notes": "Voice calls fixed: stable invite, accept, reject and hangup flow.",
+  "assets": {
+    "android_apk": "redline-client-android-v1.7.4+12.apk",
+    "windows_installer": "redline-client-windows-installer-v1.7.4+12.msi"
+  },
+  "sha256": {
+    "redline-client-android-v1.7.4+12.apk": "25c917e84e7d46490f8f65c83ea356551aac22a1b1980faee1c26d6c7611a49e",
+    "redline-client-windows-installer-v1.7.4+12.msi": "aaf01ac1dbfa14155c57992c24e47ebfc6dde4b6f65ef3c22008c9ec8a72fb71"
+  }
+}
+

@@ -1,0 +1,25 @@
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Flutter/Build cache
+**/.dart_tool/
+**/.packages
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.metadata
+
+# Temporary
+*.tmp
+*.log
+*.orig
+
+# Excluded client content
+client/README.md
+client/web/
+client/lib/lib.rar
